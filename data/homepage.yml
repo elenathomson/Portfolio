@@ -1,0 +1,188 @@
+head:
+  title: "Olena Thomson's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Olena Thomson."
+  subtitle: "Data Scientist"
+  description: "Passionate about getting value from data. Experienced in complete data science life-cycle from data acquisition and hypotheses generation to statistical data analysis and result dissemination in publications and conferences."
+  image:
+    x: "img/showcase/worl_cloud_LIKE_2.png"
+    _2x: "img/showcase/worl_cloud_LIKE_2.png"
+  imageMobile:
+    x: "img/showcase/worl_cloud_LIKE_2.png"
+    _2x: "img/showcase/worl_cloud_LIKE_2.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Olena"
+    URL: "mailto:olena.thomson@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/olena-thomson/"
+
+    - icon: "github"
+      URL: "https://github.com/elenathomson"
+ 
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>Result-driven and adaptable data scientist.</strong> Experienced working with health and environmental data in multicultural and multidisciplinary teams.  
+    </p>
+    <p class="lead">
+    <strong>I’m passionate about constant improvement </strong> and I am always in search of new learning opportunities. 
+    My strongest skills are flexibility, persistence and communication.
+    </p>
+    
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/olena-thomson/"
+  image:
+    x: "img/who-am-i/lena_Al.jpg"
+    _2x: "img/who-am-i/lena_Al.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over two years’ experience in data analysis and 10+ years’ experience in research and engineering. Proven success in project execution and delivering results. Experience Working in leading institutions in the UK, Switzerland and Ukraine."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My CV"
+    URL: "cv/CV_OT_data_Nov_2022.pdf"
+ 
+  items:
+ 
+    - title: "Real World Data Analyst"
+      company: "Cegedim Health Data UK"
+      duration: "Jan 2021 - Present"
+
+    - title: "Data Analyst"
+      company: "SIB Swiss Institute of Bioinformatics"
+      duration: "Mar 2019 - Sep 2019"
+
+    - title: "Researcher"
+      company: "University of Geneva"
+      duration: "Sep 2013 - Aug 2018"
+
+    - title: "Researcher and Engineer"
+      company: "Institute of Colloid and Water Chemistry"
+      duration: "Aug 2006 - Aug 2013"
+  
+ 
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Geneva"
+      year: "2013-2018"
+      degree: "PhD in environmental sciences"
+
+    - university: "University of Geneva"
+      year: "2017-2018"
+      degree: "Complimentary certificate in applied statistics"
+      
+    - university: "NTUU “KPI”"
+      year: "2004-2006"
+      degree: "MSc in applied chemistry and engineering"
+
+    - university: "NTUU “KPI”"
+      year: "2000-2004"
+      degree: "BSc in applied chemistry and engineering"
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Tableau Dashboard Neonatal Death"
+      description: "This dashboard shows the change in the rate of infant death over time and demonstrate the improvement of the world healthcare system."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Show dashboard"
+        URL: "https://public.tableau.com/app/profile/elena.thomson/viz/NeonataldeathsWorldBankData/Savingthechildren"
+      image:
+        x: "img/works/Tableau_preview_image.PNG"
+        _2x: "img/works/Tableau_preview_image.PNG"
+      is_even: true
+
+    - title: "Changes in European Energy trends"
+      description: "This analysis helps to understand the trends in European Energy market on the example of two countries: the UK and Ukraine."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Show report"
+        URL: "https://elenathomson.github.io/EuropeanEnergy/"
+      image:
+        x: "img/works/energy.png"
+        _2x: "img/works/energy.png"
+      is_even: false
+
+ 
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact Olena"
+ 
+  image:
+    x: "img/who-am-i/tidyverse.PNG"
+    _2x: "img/who-am-i/tidyverse.PNG"
+    
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:olena.thomson@gmail.com'
+ 
+  phone:
+    title: "Source: tidyverse"
+    
+ 
+
