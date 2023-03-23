@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Olena Thomson."
   subtitle: "Data Scientist"
-  description: "Passionate about getting value from data. Experienced in complete data science life-cycle from data acquisition and hypotheses generation to statistical data analysis and result dissemination in publications and conferences."
+  description: "Passionate about getting value from data. Experienced in complete data science life-cycle from data acquisition and hypothesis generation to statistical data analysis and result dissemination in publications and conferences."
   image:
     x: "img/showcase/worl_cloud_LIKE_2.png"
     _2x: "img/showcase/worl_cloud_LIKE_2.png"
@@ -33,10 +33,10 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>Result-driven and adaptable data scientist.</strong> Experienced working with health and environmental data in multicultural and multidisciplinary teams.  
+    <strong>I’m result-driven and adaptable data scientist.</strong> I’m experienced working with health and environmental data in multicultural and multidisciplinary teams.  
     </p>
     <p class="lead">
-    <strong>I’m passionate about constant improvement </strong> and I am always in search of new learning opportunities. 
+    <strong>I’m passionate about continuous improvement </strong> and I’m always in search of new learning opportunities. 
     My strongest skills are flexibility, persistence and communication.
     </p>
     
@@ -52,7 +52,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over two years’ experience in data analysis and 10+ years’ experience in research and engineering. Proven success in project execution and delivering results. Experience Working in leading institutions in the UK, Switzerland and Ukraine."
+  description: "Over two years’ experience in data analysis and 10+ years’ experience in research and engineering. Proven success in project execution and delivering results. Experience working in leading institutions in the UK, Switzerland and Ukraine."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -142,7 +142,7 @@ client_and_work:
 
   works:
     - title: "Tableau Dashboard Neonatal Death"
-      description: "This dashboard shows the change in the rate of infant death over time and demonstrate the improvement of the world healthcare system."
+      description: "This dashboard shows the change in the rate of infant death over time and demonstrates the improvement of the world healthcare system."
       button:
         icon: "icon-arrow-right"
         btnText: "Show dashboard"
