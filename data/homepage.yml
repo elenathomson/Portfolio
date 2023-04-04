@@ -152,6 +152,17 @@ client_and_work:
         _2x: "img/works/Tableau_preview_image.PNG"
       is_even: true
 
+    - title: "Hospital prescription data analysis"
+      description: "This analysis helps to understand trends in the prescription data from different NHS Hospital Trusts. The analysis includes general overview of the dataset, visualisations of the prescription pattern and time-series analysis of the cost."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Show report"
+        URL: "https://elenathomson.github.io/Prescriptions/"
+      image:
+        x: "img/works/lolipop.png"
+        _2x: "img/works/lolipop.png"
+      is_even: false
+
     - title: "Changes in European Energy trends"
       description: "This analysis helps to understand the trends in European Energy market on the example of two countries: the UK and Ukraine."
       button:
@@ -161,7 +172,7 @@ client_and_work:
       image:
         x: "img/works/energy.png"
         _2x: "img/works/energy.png"
-      is_even: false
+      is_even: true
 
  
 
