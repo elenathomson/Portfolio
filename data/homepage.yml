@@ -174,8 +174,8 @@ client_and_work:
         _2x: "img/works/energy.png"
       is_even: true
      
-    - title: "PowerBi Dashboard Analysing Customer Churn"
-      description: "It is a series of dashboards analysing the reasons why customers of an imaginative telecom company do not renew their contract, i.e. churn. The aim of this project was to practice and showcase the usage of DAX formulas and visualisation skills using PowerBi."
+    - title: "PowerBI Dashboard Analysing Customer Churn"
+      description: "It is a series of dashboards analysing the reasons why customers of an imaginative telecom company do not renew their contract, i.e. churn. The aim of this project was to practice and showcase the usage of DAX formulas and visualisation skills using PowerBI."
       button:
         icon: "icon-arrow-right"
         btnText: "Download PowerBi"
