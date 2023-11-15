@@ -45,8 +45,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/olena-thomson/"
   image:
-    x: "img/who-am-i/lena_Al.jpg"
-    _2x: "img/who-am-i/lena_Al.jpg"
+    x: "img/who-am-i/OT_001.jpg"
+    _2x: "img/who-am-i/OT_001.jpg"
 
 # experience
 experience:
